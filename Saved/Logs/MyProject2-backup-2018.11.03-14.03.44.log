@@ -1,0 +1,1248 @@
+﻿Log file open, 11/02/18 12:54:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.585716
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.366s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 1050
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/epicSDK/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.011s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.02-10.54.26:514][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.02-10.54.26:514][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.02-10.54.26:580][  0]LogHAL: Display: Platform has ~ 16 GB [17136578560 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.02-10.54.26:580][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.02-10.54.26:580][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.02-10.54.26:611][  0]LogInit: Computer: DESKTOP-1FJRS5V
+[2018.11.02-10.54.26:611][  0]LogInit: User: User
+[2018.11.02-10.54.26:611][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.02-10.54.26:611][  0]LogInit: High frequency timer resolution =2.929688 MHz
+[2018.11.02-10.54.26:611][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.11.02-10.54.26:611][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.02-10.54.26:611][  0]LogMemory: Process Physical Memory: 101.67 MB used, 101.67 MB peak
+[2018.11.02-10.54.26:611][  0]LogMemory: Process Virtual Memory: 96.46 MB used, 96.46 MB peak
+[2018.11.02-10.54.26:612][  0]LogMemory: Physical Memory: 3213.80 MB used,  13128.91 MB free, 16342.71 MB total
+[2018.11.02-10.54.26:612][  0]LogMemory: Virtual Memory: 4637.37 MB used,  13128.91 MB free, 134217728.00 MB total
+[2018.11.02-10.54.27:314][  0]LogInit: Using OS detected language (ru-RU).
+[2018.11.02-10.54.27:314][  0]LogInit: Using OS detected locale (ru-UA).
+[2018.11.02-10.54.27:410][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2018.11.02-10.54.27:592][  0]LogStreaming: Display: Took  0.278s to InitEngineTextLocalization.
+[2018.11.02-10.54.27:592][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.02-10.54.28:273][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.02-10.54.28:273][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.02-10.54.33:783][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.02-10.54.33:783][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.02-10.54.33:864][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.11.02-10.54.33:864][  0]LogD3D11RHI:       1977/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.02-10.54.33:865][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.02-10.54.33:865][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.02-10.54.33:865][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.02-10.54.33:871][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.02-10.54.33:871][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.02-10.54.33:871][  0]LogWindows: EnumDisplayDevices:
+[2018.11.02-10.54.33:871][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2018.11.02-10.54.33:871][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.11.02-10.54.33:871][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.11.02-10.54.33:871][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.11.02-10.54.33:872][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.02-10.54.33:872][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.11.02-10.54.33:872][  0]LogD3D11RHI:   Driver Version: 399.24 (internal:24.21.13.9924, unified:399.24)
+[2018.11.02-10.54.33:872][  0]LogD3D11RHI:      Driver Date: 9-5-2018
+[2018.11.02-10.54.33:872][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2018.11.02-10.54.33:906][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.02-10.54.33:924][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.02-10.54.33:925][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (C:/Users/User/Documents/Unreal Projects/MyProject2/Intermediate/Shaders/WorkingDirectory/6840/).
+[2018.11.02-10.54.33:925][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/0ABF450E498CE97F93BB4599779B4FB9/'.
+[2018.11.02-10.54.44:547][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.02-10.54.44:584][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.02-10.54.44:624][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.02-10.54.44:663][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.02-10.54.44:730][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.02-10.54.44:766][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.02-10.54.44:804][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.02-10.54.44:847][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.02-10.54.45:055][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.02-10.54.45:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.02-10.54.45:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.02-10.54.45:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.02-10.54.45:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.02-10.54.45:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.02-10.54.45:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.02-10.54.45:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.02-10.54.45:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.02-10.54.45:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.02-10.54.45:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.02-10.54.45:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.02-10.54.45:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.02-10.54.45:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.02-10.54.45:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.02-10.54.45:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.02-10.54.45:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.02-10.54.45:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.02-10.54.45:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.02-10.54.45:273][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.02-10.54.45:483][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.02-10.54.45:483][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.02-10.54.45:556][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.02-10.54.45:556][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.02-10.54.45:595][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.02-10.54.45:645][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.02-10.54.45:700][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.02-10.54.46:065][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.02-10.54.46:095][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.02-10.54.46:095][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.02-10.54.47:266][  0]LogXGEController: Cleaning working directory: C:/Users/User/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.02-10.54.47:266][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.02-10.54.47:266][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.02-10.54.47:266][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.02-10.54.50:315][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.02-10.54.50:972][  0]LogDerivedDataCache: Loaded boot cache 0.64s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.02-10.54.50:972][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.02-10.54.50:973][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/User/Documents/Unreal Projects/MyProject2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.02-10.54.50:973][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.02-10.54.50:973][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/User/Documents/Unreal Projects/MyProject2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.02-10.54.50:973][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.02-10.54.51:037][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.02-10.54.51:050][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.02-10.54.51:050][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.02-10.54.51:050][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.02-10.54.51:069][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.02-10.54.51:071][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.02-10.54.51:127][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.02-10.54.52:026][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2018.11.02-10.54.52:385][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.02-10.54.57:128][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.02-10.54.57:916][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.02-10.54.57:916][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.02-10.54.57:916][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.02-10.54.57:916][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.02-10.54.58:171][  0]LogNetVersion: MyProject2 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1482868377)
+[2018.11.02-10.55.05:385][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.256460 seconds
+[2018.11.02-10.55.05:392][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.02-10.55.05:392][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.11.02-10.55.05:392][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.02-10.55.38:599][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.02-10.55.38:661][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.02-10.55.41:201][  0]SourceControl: Source control is disabled
+[2018.11.02-10.55.41:202][  0]SourceControl: Source control is disabled
+[2018.11.02-10.55.41:246][  0]SourceControl: Source control is disabled
+[2018.11.02-10.55.41:287][  0]SourceControl: Source control is disabled
+[2018.11.02-10.55.43:527][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.02-10.55.44:391][  0]LogOcInput: OculusInput pre-init called
+[2018.11.02-10.55.45:293][  0]LogEngine: Initializing Engine...
+[2018.11.02-10.55.45:294][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.02-10.55.45:296][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.02-10.55.45:296][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.02-10.55.45:296][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.02-10.55.45:296][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.02-10.55.47:131][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.02-10.55.47:337][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.02-10.55.47:350][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.02-10.55.47:369][  0]LogInit: FAudioDevice initialized.
+[2018.11.02-10.55.47:369][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.02-10.55.47:668][  0]LogDerivedDataCache: Saved boot cache 0.30s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.02-10.55.47:687][  0]LogInit: Texture streaming: Enabled
+[2018.11.02-10.55.47:857][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.02-10.55.47:896][  0]LogInit: Transaction tracking system initialized
+[2018.11.02-10.55.48:057][  0]BlueprintLog: New page: Editor Load
+[2018.11.02-10.55.51:193][  0]LocalizationService: Localization service is disabled
+[2018.11.02-10.55.57:213][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.02-10.55.57:213][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.02-10.55.57:213][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.02-10.55.57:213][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.02-10.55.57:213][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.02-10.55.57:213][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.02-10.55.57:213][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.02-10.55.58:180][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/MyProject2/Content/' took 0.03s
+[2018.11.02-10.56.00:403][  0]SourceControl: Source control is disabled
+[2018.11.02-10.56.00:403][  0]Cmd: MAP LOAD FILE="C:/Users/User/Documents/Unreal Projects/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.02-10.56.00:404][  0]LightingResults: New page: Lighting Build
+[2018.11.02-10.56.00:408][  0]MapCheck: New page: Map Check
+[2018.11.02-10.56.00:408][  0]LightingResults: New page: Lighting Build
+[2018.11.02-10.56.12:966][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.02-10.56.13:043][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.02-10.56.13:078][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.02-10.56.13:164][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85,087ms to complete.
+[2018.11.02-10.56.13:164][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 12.761
+[2018.11.02-10.56.13:344][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.02-10.56.13:352][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.02-10.56.13:360][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.02-10.56.13:369][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.02-10.56.13:687][  0]LogCollectionManager: Loaded 0 collections in 0.000971 seconds
+[2018.11.02-10.56.13:727][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/MyProject2/Saved/Collections/' took 0.01s
+[2018.11.02-10.56.13:727][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/MyProject2/Content/Developers/User/Collections/' took 0.01s
+[2018.11.02-10.56.13:727][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/Unreal Projects/MyProject2/Content/Collections/' took 0.01s
+[2018.11.02-10.56.13:727][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.02-10.56.13:738][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2582 classes and 610 folders.
+[2018.11.02-10.56.13:744][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.02-10.56.15:397][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.02-10.56.15:421][  0]LogSlate: Took 0.011320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.02-10.56.15:442][  0]LogSlate: Took 0.019505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.02-10.56.15:468][  0]LogSlate: Took 0.021141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.02-10.56.15:780][  0]LogRenderer: Reallocating scene render targets to support 1160x924 Format 9 NumSamples 1 (Frame:1).
+[2018.11.02-10.56.15:963][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.02-10.56.15:963][  0]LogLoad: (Engine Initialization) Total time: 132.36 seconds
+[2018.11.02-10.56.15:963][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.02-10.56.16:000][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.11.02-10.56.16:095][  0]LogSlate: Took 0.013815 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.02-10.56.16:190][  1]LogAssetRegistry: Asset discovery search completed in 84.1871 seconds
+[2018.11.02-10.56.16:191][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.02-10.56.16:191][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2018.11.02-11.22.43:666][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.02-11.22.48:574][605]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.02-11.22.48:579][605]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.11.02-11.22.49:273][605]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.11.02-11.22.50:436][605]LogSlate: Took 0.015064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.02-11.22.51:159][606]LogSlate: Took 0.024707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.02-12.25.31:348][ 97]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.02-12.25.31:348][ 97]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.02-12.25.32:958][242]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.02-12.25.32:985][242]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-12.25.32:986][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.02-12.25.32:999][242]PIE: New page: PIE session: ThirdPersonExampleMap (2 нояб. 2018, 16:25:32)
+[2018.11.02-12.25.32:999][242]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.02-12.25.33:023][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023341s)
+[2018.11.02-12.25.33:024][242]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.02-12.25.33:024][242]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2018.11.02-12.25.33:024][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024445s)
+[2018.11.02-12.25.33:070][242]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.02-12.25.33:084][242]LogInit: FAudioDevice initialized.
+[2018.11.02-12.25.33:091][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.02-12.25.33:145][242]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.02-12.25.33:150][242]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.02-14.25.33
+[2018.11.02-12.25.33:151][242]LogWorld: Bringing up level for play took: 0.004624
+[2018.11.02-12.25.33:167][242]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.11.02-12.25.33:167][242]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [0/0]!
+[2018.11.02-12.25.33:167][242]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [1/0]!
+[2018.11.02-12.25.33:168][242]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle
+[2018.11.02-12.25.33:173][242]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,493
+[2018.11.02-12.25.33:174][242]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-12.25.33:193][242]LogRenderer: Reallocating scene render targets to support 1292x924 Format 9 NumSamples 1 (Frame:1).
+[2018.11.02-12.27.02:973][950]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle[CharSensed]
+[2018.11.02-12.27.02:973][950]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Combat
+[2018.11.02-12.27.04:500][133]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle[Nothing]
+[2018.11.02-12.27.04:500][133]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle
+[2018.11.02-12.27.12:726][115]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle[CharSensed]
+[2018.11.02-12.27.12:726][115]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Combat
+[2018.11.02-12.27.21:930][214]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle[Nothing]
+[2018.11.02-12.27.21:930][214]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle
+[2018.11.02-12.27.22:248][252]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle[CharSensed]
+[2018.11.02-12.27.22:248][252]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Combat
+[2018.11.02-12.27.25:116][596]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle[Nothing]
+[2018.11.02-12.27.25:116][596]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle
+[2018.11.02-12.27.27:117][836]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle[CharSensed]
+[2018.11.02-12.27.27:117][836]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Combat
+[2018.11.02-12.27.27:792][917]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle[Nothing]
+[2018.11.02-12.27.27:792][917]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle
+[2018.11.02-12.27.48:391][379]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle[CharSensed]
+[2018.11.02-12.27.48:391][379]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Combat
+[2018.11.02-12.27.49:375][497]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle[Nothing]
+[2018.11.02-12.27.49:375][497]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle
+[2018.11.02-12.27.49:733][540]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle[CharSensed]
+[2018.11.02-12.27.49:733][540]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Combat
+[2018.11.02-12.27.54:069][ 60]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle[Nothing]
+[2018.11.02-12.27.54:069][ 60]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle
+[2018.11.02-12.27.54:286][ 86]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle[CharSensed]
+[2018.11.02-12.27.54:286][ 86]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Combat
+[2018.11.02-12.27.54:603][124]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle[Nothing]
+[2018.11.02-12.27.54:603][124]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle
+[2018.11.02-12.28.02:370][ 56]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle[CharSensed]
+[2018.11.02-12.28.02:371][ 56]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Combat
+[2018.11.02-12.28.04:031][255]LogBlueprintUserMessages: [AI_Base_3] AI_Base:DamageAplied
+[2018.11.02-12.28.04:726][337]LogBlueprintUserMessages: [AI_Base_3] AI_Base:DamageAplied
+[2018.11.02-12.28.05:060][376]LogBlueprintUserMessages: [AI_Base_3] AI_Base:DamageAplied
+[2018.11.02-12.28.05:444][422]LogBlueprintUserMessages: [AI_Base_3] AI_Base:DamageAplied
+[2018.11.02-12.28.11:855][191]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle[Nothing]
+[2018.11.02-12.28.11:855][191]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle
+[2018.11.02-12.28.14:008][449]LogScript: Warning: Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill
+	AmmoCounter_UI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_0.WidgetTree_0.AmmoCounter_UI
+	Function /Game/ThirdPersonBP/Inventory/UI/AmmoCounter_UI.AmmoCounter_UI_C:GetCurrentClipText:003D
+[2018.11.02-12.28.14:008][449]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:016][450]LogScript: Warning: Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill
+	AmmoCounter_UI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_0.WidgetTree_0.AmmoCounter_UI
+	Function /Game/ThirdPersonBP/Inventory/UI/AmmoCounter_UI.AmmoCounter_UI_C:GetCurrentClipText:003D
+[2018.11.02-12.28.14:016][450]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:024][451]LogScript: Warning: Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill
+	AmmoCounter_UI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_0.WidgetTree_0.AmmoCounter_UI
+	Function /Game/ThirdPersonBP/Inventory/UI/AmmoCounter_UI.AmmoCounter_UI_C:GetCurrentClipText:003D
+[2018.11.02-12.28.14:024][451]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:033][452]LogScript: Warning: Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill
+	AmmoCounter_UI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_0.WidgetTree_0.AmmoCounter_UI
+	Function /Game/ThirdPersonBP/Inventory/UI/AmmoCounter_UI.AmmoCounter_UI_C:GetCurrentClipText:003D
+[2018.11.02-12.28.14:033][452]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:041][453]LogScript: Warning: Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill
+	AmmoCounter_UI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_0.WidgetTree_0.AmmoCounter_UI
+	Function /Game/ThirdPersonBP/Inventory/UI/AmmoCounter_UI.AmmoCounter_UI_C:GetCurrentClipText:003D
+[2018.11.02-12.28.14:041][453]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:049][454]LogScript: Warning: Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill
+	AmmoCounter_UI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_0.WidgetTree_0.AmmoCounter_UI
+	Function /Game/ThirdPersonBP/Inventory/UI/AmmoCounter_UI.AmmoCounter_UI_C:GetCurrentClipText:003D
+[2018.11.02-12.28.14:049][454]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:058][455]LogScript: Warning: Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill
+	AmmoCounter_UI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_0.WidgetTree_0.AmmoCounter_UI
+	Function /Game/ThirdPersonBP/Inventory/UI/AmmoCounter_UI.AmmoCounter_UI_C:GetCurrentClipText:003D
+[2018.11.02-12.28.14:058][455]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:066][456]LogScript: Warning: Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill
+	AmmoCounter_UI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_0.WidgetTree_0.AmmoCounter_UI
+	Function /Game/ThirdPersonBP/Inventory/UI/AmmoCounter_UI.AmmoCounter_UI_C:GetCurrentClipText:003D
+[2018.11.02-12.28.14:066][456]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:075][457]LogScript: Warning: Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill
+	AmmoCounter_UI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_0.WidgetTree_0.AmmoCounter_UI
+	Function /Game/ThirdPersonBP/Inventory/UI/AmmoCounter_UI.AmmoCounter_UI_C:GetCurrentClipText:003D
+[2018.11.02-12.28.14:075][457]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:083][458]LogScript: Warning: Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill
+	AmmoCounter_UI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_0.WidgetTree_0.AmmoCounter_UI
+	Function /Game/ThirdPersonBP/Inventory/UI/AmmoCounter_UI.AmmoCounter_UI_C:GetCurrentClipText:003D
+[2018.11.02-12.28.14:083][458]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:091][459]LogScript: Warning: Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill
+	AmmoCounter_UI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_0.WidgetTree_0.AmmoCounter_UI
+	Function /Game/ThirdPersonBP/Inventory/UI/AmmoCounter_UI.AmmoCounter_UI_C:GetCurrentClipText:003D
+[2018.11.02-12.28.14:091][459]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:100][460]LogScript: Warning: Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill
+	AmmoCounter_UI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_0.WidgetTree_0.AmmoCounter_UI
+	Function /Game/ThirdPersonBP/Inventory/UI/AmmoCounter_UI.AmmoCounter_UI_C:GetCurrentClipText:003D
+[2018.11.02-12.28.14:100][460]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:107][461]LogScript: Warning: Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill
+	AmmoCounter_UI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_0.WidgetTree_0.AmmoCounter_UI
+	Function /Game/ThirdPersonBP/Inventory/UI/AmmoCounter_UI.AmmoCounter_UI_C:GetCurrentClipText:003D
+[2018.11.02-12.28.14:107][461]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:115][462]LogScript: Warning: Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill
+	AmmoCounter_UI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_0.WidgetTree_0.AmmoCounter_UI
+	Function /Game/ThirdPersonBP/Inventory/UI/AmmoCounter_UI.AmmoCounter_UI_C:GetCurrentClipText:003D
+[2018.11.02-12.28.14:116][462]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:124][463]LogScript: Warning: Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill
+	AmmoCounter_UI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_0.WidgetTree_0.AmmoCounter_UI
+	Function /Game/ThirdPersonBP/Inventory/UI/AmmoCounter_UI.AmmoCounter_UI_C:GetCurrentClipText:003D
+[2018.11.02-12.28.14:124][463]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:132][464]LogScript: Warning: Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill
+	AmmoCounter_UI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_0.WidgetTree_0.AmmoCounter_UI
+	Function /Game/ThirdPersonBP/Inventory/UI/AmmoCounter_UI.AmmoCounter_UI_C:GetCurrentClipText:003D
+[2018.11.02-12.28.14:132][464]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:141][465]LogScript: Warning: Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill
+	AmmoCounter_UI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HUD_C_0.WidgetTree_0.AmmoCounter_UI
+	Function /Game/ThirdPersonBP/Inventory/UI/AmmoCounter_UI.AmmoCounter_UI_C:GetCurrentClipText:003D
+[2018.11.02-12.28.14:141][465]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:149][466]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:157][467]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:166][468]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:174][469]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:182][470]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:191][471]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:199][472]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:208][473]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:216][474]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:224][475]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:232][476]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:241][477]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:249][478]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:258][479]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:266][480]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:274][481]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:282][482]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:291][483]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:299][484]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:308][485]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:316][486]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:324][487]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:333][488]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:341][489]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:350][490]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:358][491]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:366][492]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:375][493]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:383][494]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:391][495]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:400][496]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:407][497]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:415][498]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:424][499]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:432][500]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:441][501]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:449][502]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:457][503]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:466][504]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:474][505]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:482][506]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:491][507]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:499][508]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:507][509]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:516][510]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:524][511]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:533][512]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:541][513]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:549][514]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:558][515]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:566][516]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:574][517]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:583][518]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:591][519]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:599][520]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:608][521]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:616][522]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:624][523]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:633][524]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:641][525]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:649][526]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:659][527]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:666][528]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:674][529]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:682][530]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:690][531]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:699][532]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:707][533]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:715][534]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:724][535]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:732][536]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:741][537]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:749][538]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:758][539]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:766][540]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:775][541]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:783][542]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:791][543]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:800][544]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:808][545]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:816][546]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:825][547]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:833][548]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:842][549]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:850][550]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:857][551]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:865][552]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:874][553]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:883][554]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:891][555]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:899][556]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:908][557]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:916][558]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:924][559]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:933][560]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:941][561]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:950][562]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:958][563]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:966][564]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:974][565]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:983][566]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.14:991][567]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:000][568]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:007][569]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:015][570]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:024][571]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:032][572]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:040][573]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:049][574]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:057][575]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:065][576]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:074][577]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:082][578]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:091][579]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:099][580]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:108][581]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:116][582]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:125][583]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:132][584]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:141][585]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:149][586]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:158][587]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:166][588]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:174][589]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:182][590]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:192][591]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:199][592]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:208][593]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:216][594]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:224][595]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:233][596]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:241][597]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:249][598]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:258][599]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:266][600]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:274][601]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:283][602]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:291][603]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:300][604]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:308][605]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:316][606]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:324][607]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:333][608]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:341][609]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:350][610]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:359][611]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:366][612]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:375][613]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:383][614]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:391][615]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:399][616]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:407][617]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:416][618]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:424][619]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:433][620]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:441][621]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:449][622]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:458][623]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:466][624]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:474][625]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:483][626]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:491][627]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:499][628]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:508][629]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:515][630]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:525][631]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:532][632]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:541][633]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:549][634]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:557][635]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:566][636]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:574][637]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:582][638]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:591][639]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:599][640]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:608][641]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:616][642]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:624][643]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:633][644]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:641][645]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:649][646]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:658][647]PIE: Error: Blueprint Runtime Error: "Attempted to access DESTROYED_PistolTest_C_CHILDACTOR_11 via property EquipedWeapon, but DESTROYED_PistolTest_C_CHILDACTOR_11 is pending kill". Blueprint:  AmmoCounter_UI Function:  Get Current Clip Text Graph:  GetCurrentClipText Node:  Return Node
+[2018.11.02-12.28.15:664][648]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-12.28.15:664][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.02-12.28.15:693][648]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.02-12.28.15:762][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.02-12.28.15:763][648]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-12.28.15:813][649]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.11.02-12.28.21:364][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.02-12.28.25:430][789]LogSlate: Window 'Message Log' being destroyed
+[2018.11.02-12.28.25:432][789]LogSlate: Window 'Message Log' being destroyed
+[2018.11.02-12.28.27:240][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.02-12.28.27:323][ 15]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.02-12.28.27:354][ 15]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-12.28.27:354][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.02-12.28.27:354][ 15]PIE: New page: PIE session: ThirdPersonExampleMap (2 нояб. 2018, 16:28:27)
+[2018.11.02-12.28.27:354][ 15]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.02-12.28.27:371][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016289s)
+[2018.11.02-12.28.27:371][ 15]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.02-12.28.27:372][ 15]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2018.11.02-12.28.27:372][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017326s)
+[2018.11.02-12.28.27:406][ 15]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.02-12.28.27:419][ 15]LogInit: FAudioDevice initialized.
+[2018.11.02-12.28.27:424][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.02-12.28.27:459][ 15]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.02-12.28.27:463][ 15]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.02-14.28.27
+[2018.11.02-12.28.27:463][ 15]LogWorld: Bringing up level for play took: 0.003764
+[2018.11.02-12.28.27:476][ 15]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [0/0]!
+[2018.11.02-12.28.27:476][ 15]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [1/0]!
+[2018.11.02-12.28.27:477][ 15]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle
+[2018.11.02-12.28.27:481][ 15]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,801
+[2018.11.02-12.28.27:481][ 15]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-12.28.55:532][364]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.02-12.28.58:127][675]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.02-12.29.18:458][110]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-12.29.18:458][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.02-12.29.18:493][110]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.02-12.29.18:525][110]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.02-12.29.18:526][110]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-12.29.18:569][111]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.11.02-12.29.29:337][401]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.02-12.29.29:362][401]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-12.29.29:362][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.02-12.29.29:362][401]PIE: New page: PIE session: ThirdPersonExampleMap (2 нояб. 2018, 16:29:29)
+[2018.11.02-12.29.29:362][401]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.02-12.29.29:377][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014523s)
+[2018.11.02-12.29.29:378][401]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.02-12.29.29:378][401]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2018.11.02-12.29.29:378][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016066s)
+[2018.11.02-12.29.29:413][401]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.02-12.29.29:425][401]LogInit: FAudioDevice initialized.
+[2018.11.02-12.29.29:431][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.02-12.29.29:465][401]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.02-12.29.29:469][401]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.02-14.29.29
+[2018.11.02-12.29.29:470][401]LogWorld: Bringing up level for play took: 0.004100
+[2018.11.02-12.29.29:483][401]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [0/0]!
+[2018.11.02-12.29.29:483][401]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [1/0]!
+[2018.11.02-12.29.29:483][401]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle
+[2018.11.02-12.29.29:488][401]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,808
+[2018.11.02-12.29.29:488][401]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-12.29.43:513][ 71]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle[CharSensed]
+[2018.11.02-12.29.43:513][ 71]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Combat
+[2018.11.02-12.29.44:172][150]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle[Nothing]
+[2018.11.02-12.29.44:172][150]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle
+[2018.11.02-12.29.44:497][189]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle[CharSensed]
+[2018.11.02-12.29.44:497][189]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Combat
+[2018.11.02-12.29.47:090][500]LogBlueprintUserMessages: [AI_Base_3] AI_Base:DamageAplied
+[2018.11.02-12.29.47:683][571]LogBlueprintUserMessages: [AI_Base_3] AI_Base:DamageAplied
+[2018.11.02-12.29.48:133][625]LogBlueprintUserMessages: [AI_Base_3] AI_Base:DamageAplied
+[2018.11.02-12.29.48:400][657]LogBlueprintUserMessages: [AI_Base_3] AI_Base:DamageAplied
+[2018.11.02-12.29.48:659][688]LogBlueprintUserMessages: [AI_Base_3] AI_Base:DamageAplied
+[2018.11.02-12.29.49:933][841]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle[Nothing]
+[2018.11.02-12.29.49:933][841]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle
+[2018.11.02-12.29.59:037][933]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-12.29.59:037][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.02-12.29.59:065][933]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.02-12.29.59:096][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.02-12.29.59:097][933]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-12.29.59:140][934]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.11.02-12.53.50:352][458]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.02-12.53.50:378][458]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-12.53.50:378][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.02-12.53.50:378][458]PIE: New page: PIE session: ThirdPersonExampleMap (2 нояб. 2018, 16:53:50)
+[2018.11.02-12.53.50:378][458]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.02-12.53.50:394][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015756s)
+[2018.11.02-12.53.50:395][458]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.02-12.53.50:395][458]LogPlayLevel: PIE: World Init took: (0.001317s)
+[2018.11.02-12.53.50:395][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017248s)
+[2018.11.02-12.53.50:428][458]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.02-12.53.50:441][458]LogInit: FAudioDevice initialized.
+[2018.11.02-12.53.50:446][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.02-12.53.50:477][458]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.02-12.53.50:481][458]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.02-14.53.50
+[2018.11.02-12.53.50:482][458]LogWorld: Bringing up level for play took: 0.004121
+[2018.11.02-12.53.50:495][458]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [0/0]!
+[2018.11.02-12.53.50:495][458]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [1/0]!
+[2018.11.02-12.53.50:495][458]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle
+[2018.11.02-12.53.50:500][458]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,181
+[2018.11.02-12.53.50:500][458]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-12.54.20:709][ 72]LogBlueprintUserMessages: [VendorBase_2] VendorBase:Open
+[2018.11.02-12.54.20:713][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.02-12.54.21:959][222]LogBlueprintUserMessages: [Trade_UI_C_0] Trade_UI:Store
+[2018.11.02-12.54.22:960][342]LogBlueprintUserMessages: [Trade_UI_C_0] Trade_UI:CharInv
+[2018.11.02-12.54.28:391][993]LogBlueprintUserMessages: [VendorBase_2] VendorBase:Open
+[2018.11.02-12.54.28:396][993]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.02-12.54.29:416][116]LogBlueprintUserMessages: [Trade_UI_C_1] Trade_UI:CharInv
+[2018.11.02-12.54.32:132][441]LogBlueprintUserMessages: [Chest_Container_5] ChstBase:ItemDraw
+[2018.11.02-12.54.32:135][441]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.02-12.54.37:208][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.02-12.54.44:721][949]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-12.54.44:723][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.02-12.54.44:751][949]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.02-12.54.44:791][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.02-12.54.44:791][949]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-12.54.44:839][950]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.11.02-13.34.21:884][353]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.02-13.34.21:884][353]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.02-13.41.23:004][925]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.02-13.41.23:004][925]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.02-14.26.58:697][467]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.033
+[2018.11.02-14.26.58:700][467]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.11.02-14.26.58:732][467]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.11.02-14.26.58:732][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.11.02-14.26.59:143][467]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject2/Saved/ThirdPersonCharacter_Auto1D69B591F444EBFA839EDFCAEFD8EBD74.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2018.11.02-14.26.59:144][467]LogFileHelpers: Auto-saving content packages took 0.447
+[2018.11.02-16.21.59:574][261]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.02-16.21.59:574][261]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.02-16.22.00:973][395]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.02-16.22.01:000][395]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-16.22.01:000][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.02-16.22.01:000][395]PIE: New page: PIE session: ThirdPersonExampleMap (2 нояб. 2018, 20:22:01)
+[2018.11.02-16.22.01:000][395]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.02-16.22.01:016][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015968s)
+[2018.11.02-16.22.01:018][395]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.02-16.22.01:018][395]LogPlayLevel: PIE: World Init took: (0.002104s)
+[2018.11.02-16.22.01:018][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018326s)
+[2018.11.02-16.22.01:063][395]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.02-16.22.01:075][395]LogInit: FAudioDevice initialized.
+[2018.11.02-16.22.01:083][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.02-16.22.01:128][395]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.02-16.22.01:134][395]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.02-18.22.01
+[2018.11.02-16.22.01:135][395]LogWorld: Bringing up level for play took: 0.005291
+[2018.11.02-16.22.01:148][395]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [0/0]!
+[2018.11.02-16.22.01:148][395]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [1/0]!
+[2018.11.02-16.22.01:149][395]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle
+[2018.11.02-16.22.01:162][395]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,482
+[2018.11.02-16.22.01:163][395]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-16.23.18:058][270]LogBlueprintUserMessages: [AI_Base_3] AI_Base:DamageAplied
+[2018.11.02-16.23.18:614][320]LogBlueprintUserMessages: [AI_Base_3] AI_Base:DamageAplied
+[2018.11.02-16.23.19:926][438]LogBlueprintUserMessages: [AI_Base_3] AI_Base:DamageAplied
+[2018.11.02-16.23.20:319][473]LogBlueprintUserMessages: [AI_Base_3] AI_Base:DamageAplied
+[2018.11.02-16.23.21:227][554]LogBlueprintUserMessages: [AI_Base_3] AI_Base:DamageAplied
+[2018.11.02-16.23.21:657][592]LogBlueprintUserMessages: [AI_Base_3] AI_Base:DamageAplied
+[2018.11.02-16.23.21:805][605]LogBlueprintUserMessages: [AI_Base_3] AI_Base:DamageAplied
+[2018.11.02-16.23.21:944][617]LogBlueprintUserMessages: [AI_Base_3] AI_Base:DamageAplied
+[2018.11.02-16.23.22:068][627]LogBlueprintUserMessages: [AI_Base_3] AI_Base:DamageAplied
+[2018.11.02-16.23.25:044][890]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-16.23.25:045][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.02-16.23.25:071][890]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.02-16.23.25:147][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.02-16.23.25:147][890]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-16.23.25:672][891]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.11.02-16.35.41:105][626]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.02-16.35.44:967][945]LogEditorViewport: Clicking on Actor (LMB): CoverBase_C (CoverBase)
+[2018.11.02-16.35.45:392][989]LogEditorViewport: Clicking on Actor (context menu): CoverBase_C (CoverBase)
+[2018.11.02-16.35.45:725][989]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.02-16.35.47:218][152]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.02-16.35.49:391][401]LogEditorViewport: Clicking on Actor (LMB): CoverBase_C (CoverBase)
+[2018.11.02-16.35.50:385][515]Cmd: DELETE
+[2018.11.02-16.35.50:385][515]Cmd: ACTOR DELETE
+[2018.11.02-16.35.50:693][515]LogEditorActor: Deleted Actor: CoverBase_C
+[2018.11.02-16.35.50:744][515]LogEditorActor: Deleted 1 Actors (0.123 secs)
+[2018.11.02-16.35.51:829][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.02-16.35.51:970][646]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Cover/CoverBase.CoverBase
+[2018.11.02-16.35.55:340][967]LogSlate: Window 'CoverBase' being destroyed
+[2018.11.02-16.35.55:930][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.02-16.35.59:393][168]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.02-16.35.59:402][168]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.02-16.35.59:501][168]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.02-16.36.02:132][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.02-16.36.05:417][431]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.02-16.36.06:902][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.02-16.36.10:359][ 22]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.11.02-16.36.17:944][410]LogSlate: Window 'Message' being destroyed
+[2018.11.02-16.36.19:889][536]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.02-16.36.20:721][536]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2018.11.02-16.36.20:721][536]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2018.11.02-16.36.20:722][536]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2018.11.02-16.36.20:739][536]LogActor: Warning: PistolTest_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.CurrentWeapon_GEN_VARIABLE_PistolTest_C_CAT_10 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.11.02-16.36.20:741][536]LogActor: Warning: PistolTest_C /Engine/Transient.World_5:PersistentLevel.CurrentWeapon_GEN_VARIABLE_PistolTest_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.11.02-16.36.20:743][536]LogActor: Warning: PistolTest_C /Engine/Transient.World_1:PersistentLevel.CurrentWeapon_GEN_VARIABLE_PistolTest_C_CAT_8 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.11.02-16.36.21:771][537]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject2/Saved/ThirdPersonCharacterB533920E407AD21A9BE4E9B9DD818A80.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.11.02-16.36.26:221][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.02-16.36.28:997][218]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.02-16.36.29:112][218]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.02-16.36.30:145][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.02-16.36.33:406][619]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/Bluprints/ThirdPerson_AnimBP_2.ThirdPerson_AnimBP_2
+[2018.11.02-16.36.33:529][619]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.11.02-16.36.34:125][619]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.11.02-16.36.34:171][619]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0013 seconds. Added 1 classes and 0 folders.
+[2018.11.02-16.36.34:731][619]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.11.02-16.36.35:296][619]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.11.02-16.36.35:478][620]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.11.02-16.37.23:141][790]BlueprintLog: New page: Compile ThirdPerson_AnimBP_2
+[2018.11.02-16.37.24:298][823]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject2/Saved/ThirdPerson_AnimBP_26857ED9C422C260FD3E8AD8F2B3F65DA.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject2/Content/Mannequin/Animations/Bluprints/ThirdPerson_AnimBP_2.uasset'
+[2018.11.02-16.37.26:113][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.02-16.37.26:190][956]LogSlate: Window 'ThirdPerson_AnimBP_2' being destroyed
+[2018.11.02-16.37.27:485][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.02-16.37.27:543][ 92]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.02-16.37.27:567][ 92]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-16.37.27:567][ 92]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.02-16.37.27:577][ 92]LogPlayLevel: [PlayLevel] Compiling ChargedBase before play...
+[2018.11.02-16.37.27:626][ 92]LogPlayLevel: PlayLevel: Blueprint regeneration took 58 ms (1 blueprints)
+[2018.11.02-16.37.27:626][ 92]PIE: New page: PIE session: ThirdPersonExampleMap (2 нояб. 2018, 20:37:27)
+[2018.11.02-16.37.27:626][ 92]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.02-16.37.27:642][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015374s)
+[2018.11.02-16.37.27:643][ 92]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.02-16.37.27:643][ 92]LogPlayLevel: PIE: World Init took: (0.001548s)
+[2018.11.02-16.37.27:644][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017154s)
+[2018.11.02-16.37.27:675][ 92]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.02-16.37.27:688][ 92]LogInit: FAudioDevice initialized.
+[2018.11.02-16.37.27:693][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.02-16.37.27:729][ 92]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.02-16.37.27:733][ 92]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.02-18.37.27
+[2018.11.02-16.37.27:734][ 92]LogWorld: Bringing up level for play took: 0.003672
+[2018.11.02-16.37.27:747][ 92]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [0/0]!
+[2018.11.02-16.37.27:747][ 92]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [1/0]!
+[2018.11.02-16.37.27:747][ 92]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle
+[2018.11.02-16.37.27:751][ 92]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,071
+[2018.11.02-16.37.27:751][ 92]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-16.37.59:629][907]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-16.37.59:629][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.02-16.37.59:657][907]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.02-16.37.59:689][907]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.02-16.37.59:690][907]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-16.37.59:731][908]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.11.02-16.38.05:871][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.02-16.38.08:436][794]LogSlate: Window 'Save Content' being destroyed
+[2018.11.02-16.38.08:445][794]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.02-16.38.08:778][794]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject2/Saved/ThirdPersonExampleMap2F4855DA4F98639EF29C68B48BFB1D32.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.11.02-16.38.08:829][794]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.380
+[2018.11.02-16.39.31:980][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.02-16.39.35:760][872]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.11.02-16.45.50:988][ 13]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.02-16.45.51:015][ 13]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-16.45.51:015][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.02-16.45.51:015][ 13]PIE: New page: PIE session: ThirdPersonExampleMap (2 нояб. 2018, 20:45:51)
+[2018.11.02-16.45.51:015][ 13]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.02-16.45.51:030][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015371s)
+[2018.11.02-16.45.51:031][ 13]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.02-16.45.51:032][ 13]LogPlayLevel: PIE: World Init took: (0.001244s)
+[2018.11.02-16.45.51:032][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016778s)
+[2018.11.02-16.45.51:075][ 13]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.02-16.45.51:089][ 13]LogInit: FAudioDevice initialized.
+[2018.11.02-16.45.51:095][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.02-16.45.51:139][ 13]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.02-16.45.51:144][ 13]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.02-18.45.51
+[2018.11.02-16.45.51:145][ 13]LogWorld: Bringing up level for play took: 0.004762
+[2018.11.02-16.45.51:158][ 13]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [0/0]!
+[2018.11.02-16.45.51:158][ 13]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Inventory [1/0]!
+[2018.11.02-16.45.51:159][ 13]LogBlueprintUserMessages: [BTService_VisionCheck_C_1] BTS_VisionCheck:State=Idle
+[2018.11.02-16.45.51:168][ 13]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,487
+[2018.11.02-16.45.51:168][ 13]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-16.46.13:323][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.02-16.46.13:403][137]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-16.46.13:403][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.02-16.46.13:431][137]LogSlate: Window 'MyProject2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.02-16.46.13:501][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.02-16.46.13:502][137]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.02-16.46.14:066][138]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.11.02-16.48.30:059][618]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.067
+[2018.11.02-16.48.30:061][618]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.11.02-16.48.30:061][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.11.02-16.48.30:333][618]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject2/Saved/ThirdPersonCharacter_Auto27E0227524BC0A32DFF3C33954F0D7311.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2018.11.02-16.48.30:334][618]LogFileHelpers: Auto-saving content packages took 0.275
+[2018.11.02-16.55.45:601][ 47]LogSlate: Window 'Save Content' being destroyed
+[2018.11.02-16.55.45:895][ 47]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/MyProject2/Saved/ThirdPersonCharacter78D4DEBC49A57D5831BFD9B9F898C92C.tmp' to 'C:/Users/User/Documents/Unreal Projects/MyProject2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.11.02-16.55.46:107][ 47]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2018.11.02-16.55.46:367][ 48]Cmd: QUIT_EDITOR
+[2018.11.02-16.55.47:242][ 48]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.02-16.55.47:282][ 48]LogExit: Preparing to exit.
+[2018.11.02-16.55.48:371][ 48]LogExit: Editor shut down
+[2018.11.02-16.55.48:372][ 48]LogExit: Transaction tracking system shut down
+[2018.11.02-16.55.48:949][ 48]LogExit: Object subsystem successfully closed.
+[2018.11.02-16.55.49:005][ 48]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.02-16.55.49:016][ 48]LogD3D11RHI: Shutdown
+[2018.11.02-16.55.49:016][ 48]LogD3D11RHI: CleanupD3DDevice
+[2018.11.02-16.55.49:030][ 48]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.02-16.55.49:046][ 48]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (628)
+[2018.11.02-16.55.49:046][ 48]LogModuleManager: Shutting down and abandoning module PinnedCommandList (626)
+[2018.11.02-16.55.49:046][ 48]LogModuleManager: Shutting down and abandoning module SkeletonEditor (624)
+[2018.11.02-16.55.49:046][ 48]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (622)
+[2018.11.02-16.55.49:046][ 48]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (620)
+[2018.11.02-16.55.49:046][ 48]LogModuleManager: Shutting down and abandoning module Voice (618)
+[2018.11.02-16.55.49:047][ 48]LogModuleManager: Shutting down and abandoning module BlueprintGraph (616)
+[2018.11.02-16.55.49:047][ 48]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (614)
+[2018.11.02-16.55.49:047][ 48]LogModuleManager: Shutting down and abandoning module AddContentDialog (612)
+[2018.11.02-16.55.49:050][ 48]LogModuleManager: Shutting down and abandoning module WidgetCarousel (611)
+[2018.11.02-16.55.49:050][ 48]LogModuleManager: Shutting down and abandoning module EditorWidgets (608)
+[2018.11.02-16.55.49:050][ 48]LogModuleManager: Shutting down and abandoning module CollectionManager (606)
+[2018.11.02-16.55.49:050][ 48]LogModuleManager: Shutting down and abandoning module WorldBrowser (604)
+[2018.11.02-16.55.49:050][ 48]LogModuleManager: Shutting down and abandoning module SceneOutliner (602)
+[2018.11.02-16.55.49:050][ 48]LogModuleManager: Shutting down and abandoning module StatsViewer (600)
+[2018.11.02-16.55.49:050][ 48]LogModuleManager: Shutting down and abandoning module FoliageEdit (598)
+[2018.11.02-16.55.49:050][ 48]LogModuleManager: Shutting down and abandoning module LandscapeEditor (596)
+[2018.11.02-16.55.49:050][ 48]LogModuleManager: Shutting down and abandoning module MeshPaintMode (594)
+[2018.11.02-16.55.49:050][ 48]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (592)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module ActorPickerMode (590)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module GeometryMode (588)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module TextureAlignMode (586)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module BspMode (584)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (582)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (580)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module AutomationWorker (578)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (576)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (572)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (570)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module PlacementMode (569)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module MaterialEditor (568)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (564)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (562)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (560)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (558)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (556)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (554)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (552)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (550)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (548)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (546)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (544)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (542)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (540)
+[2018.11.02-16.55.49:051][ 48]LogModuleManager: Shutting down and abandoning module CharacterAI (538)
+[2018.11.02-16.55.49:052][ 48]LogModuleManager: Shutting down and abandoning module SmartSnapping (536)
+[2018.11.02-16.55.49:052][ 48]LogModuleManager: Shutting down and abandoning module SessionServices (534)
+[2018.11.02-16.55.49:052][ 48]LogModuleManager: Shutting down and abandoning module ViewportSnapping (532)
+[2018.11.02-16.55.49:052][ 48]LogModuleManager: Shutting down and abandoning module ViewportInteraction (530)
+[2018.11.02-16.55.49:052][ 48]LogModuleManager: Shutting down and abandoning module ClothPainter (528)
+[2018.11.02-16.55.49:052][ 48]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (527)
+[2018.11.02-16.55.49:052][ 48]LogModuleManager: Shutting down and abandoning module LogVisualizer (524)
+[2018.11.02-16.55.49:052][ 48]LogModuleManager: Shutting down and abandoning module IntroTutorials (522)
+[2018.11.02-16.55.49:052][ 48]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (521)
+[2018.11.02-16.55.49:052][ 48]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (518)
+[2018.11.02-16.55.49:052][ 48]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (516)
+[2018.11.02-16.55.49:052][ 48]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (514)
+[2018.11.02-16.55.49:052][ 48]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (512)
+[2018.11.02-16.55.49:052][ 48]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (511)
+[2018.11.02-16.55.49:715][ 48]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (508)
+[2018.11.02-16.55.49:716][ 48]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (506)
+[2018.11.02-16.55.49:716][ 48]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (504)
+[2018.11.02-16.55.49:716][ 48]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (502)
+[2018.11.02-16.55.49:716][ 48]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2018.11.02-16.55.49:716][ 48]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2018.11.02-16.55.49:716][ 48]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2018.11.02-16.55.49:716][ 48]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2018.11.02-16.55.49:716][ 48]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2018.11.02-16.55.49:717][ 48]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2018.11.02-16.55.49:717][ 48]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2018.11.02-16.55.49:717][ 48]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2018.11.02-16.55.49:717][ 48]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2018.11.02-16.55.49:717][ 48]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2018.11.02-16.55.49:717][ 48]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2018.11.02-16.55.49:718][ 48]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2018.11.02-16.55.49:718][ 48]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2018.11.02-16.55.49:719][ 48]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2018.11.02-16.55.49:719][ 48]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2018.11.02-16.55.49:719][ 48]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2018.11.02-16.55.49:719][ 48]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2018.11.02-16.55.49:719][ 48]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2018.11.02-16.55.49:761][ 48]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2018.11.02-16.55.49:761][ 48]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2018.11.02-16.55.49:761][ 48]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2018.11.02-16.55.49:761][ 48]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2018.11.02-16.55.49:762][ 48]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2018.11.02-16.55.49:762][ 48]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2018.11.02-16.55.49:762][ 48]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2018.11.02-16.55.49:762][ 48]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2018.11.02-16.55.49:762][ 48]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2018.11.02-16.55.49:762][ 48]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2018.11.02-16.55.49:787][ 48]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2018.11.02-16.55.49:787][ 48]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2018.11.02-16.55.49:787][ 48]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2018.11.02-16.55.49:787][ 48]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2018.11.02-16.55.49:787][ 48]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2018.11.02-16.55.49:787][ 48]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2018.11.02-16.55.49:788][ 48]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2018.11.02-16.55.49:788][ 48]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2018.11.02-16.55.49:788][ 48]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2018.11.02-16.55.49:788][ 48]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2018.11.02-16.55.49:788][ 48]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2018.11.02-16.55.49:788][ 48]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2018.11.02-16.55.49:788][ 48]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2018.11.02-16.55.49:788][ 48]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2018.11.02-16.55.49:788][ 48]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2018.11.02-16.55.49:788][ 48]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2018.11.02-16.55.49:788][ 48]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2018.11.02-16.55.49:789][ 48]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2018.11.02-16.55.49:789][ 48]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2018.11.02-16.55.49:789][ 48]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2018.11.02-16.55.49:789][ 48]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2018.11.02-16.55.49:789][ 48]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2018.11.02-16.55.49:829][ 48]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2018.11.02-16.55.49:829][ 48]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2018.11.02-16.55.49:829][ 48]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2018.11.02-16.55.49:830][ 48]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2018.11.02-16.55.49:830][ 48]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2018.11.02-16.55.49:830][ 48]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2018.11.02-16.55.49:830][ 48]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2018.11.02-16.55.49:830][ 48]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2018.11.02-16.55.49:830][ 48]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2018.11.02-16.55.49:830][ 48]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2018.11.02-16.55.49:830][ 48]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2018.11.02-16.55.49:830][ 48]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2018.11.02-16.55.49:830][ 48]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2018.11.02-16.55.49:830][ 48]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2018.11.02-16.55.49:830][ 48]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (372)
+[2018.11.02-16.55.49:830][ 48]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.11.02-16.55.49:831][ 48]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.11.02-16.55.49:831][ 48]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.11.02-16.55.49:843][ 48]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.11.02-16.55.49:843][ 48]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.11.02-16.55.49:843][ 48]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.11.02-16.55.49:843][ 48]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.11.02-16.55.49:843][ 48]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.11.02-16.55.49:843][ 48]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2018.11.02-16.55.49:843][ 48]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2018.11.02-16.55.49:843][ 48]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2018.11.02-16.55.49:843][ 48]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2018.11.02-16.55.49:843][ 48]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2018.11.02-16.55.49:843][ 48]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2018.11.02-16.55.49:843][ 48]LogModuleManager: Shutting down and abandoning module DatasmithContent (342)
+[2018.11.02-16.55.49:845][ 48]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2018.11.02-16.55.49:845][ 48]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2018.11.02-16.55.49:845][ 48]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2018.11.02-16.55.49:845][ 48]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2018.11.02-16.55.49:845][ 48]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2018.11.02-16.55.49:846][ 48]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2018.11.02-16.55.49:846][ 48]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2018.11.02-16.55.49:846][ 48]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2018.11.02-16.55.49:846][ 48]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2018.11.02-16.55.49:846][ 48]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2018.11.02-16.55.49:846][ 48]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2018.11.02-16.55.49:846][ 48]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2018.11.02-16.55.49:846][ 48]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2018.11.02-16.55.49:846][ 48]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2018.11.02-16.55.49:847][ 48]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2018.11.02-16.55.49:847][ 48]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2018.11.02-16.55.49:847][ 48]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2018.11.02-16.55.49:847][ 48]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2018.11.02-16.55.49:847][ 48]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2018.11.02-16.55.49:847][ 48]LogModuleManager: Shutting down and abandoning module MeshPaint (303)
+[2018.11.02-16.55.49:848][ 48]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (300)
+[2018.11.02-16.55.49:848][ 48]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (298)
+[2018.11.02-16.55.49:848][ 48]LogModuleManager: Shutting down and abandoning module PhysXVehicles (296)
+[2018.11.02-16.55.49:848][ 48]LogModuleManager: Shutting down and abandoning module OculusEditor (294)
+[2018.11.02-16.55.49:848][ 48]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (292)
+[2018.11.02-16.55.49:848][ 48]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (290)
+[2018.11.02-16.55.49:848][ 48]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (288)
+[2018.11.02-16.55.49:848][ 48]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2018.11.02-16.55.49:848][ 48]LogModuleManager: Shutting down and abandoning module UdpMessaging (284)
+[2018.11.02-16.55.49:949][ 48]LogModuleManager: Shutting down and abandoning module TcpMessaging (282)
+[2018.11.02-16.55.50:050][ 48]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (280)
+[2018.11.02-16.55.50:050][ 48]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2018.11.02-16.55.50:050][ 48]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2018.11.02-16.55.50:050][ 48]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2018.11.02-16.55.50:050][ 48]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2018.11.02-16.55.50:050][ 48]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2018.11.02-16.55.50:051][ 48]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.11.02-16.55.50:054][ 48]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.11.02-16.55.50:054][ 48]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2018.11.02-16.55.50:055][ 48]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2018.11.02-16.55.50:055][ 48]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2018.11.02-16.55.50:056][ 48]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2018.11.02-16.55.50:060][ 48]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2018.11.02-16.55.50:061][ 48]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (254)
+[2018.11.02-16.55.50:061][ 48]LogModuleManager: Shutting down and abandoning module AISupportModule (252)
+[2018.11.02-16.55.50:061][ 48]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2018.11.02-16.55.50:061][ 48]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2018.11.02-16.55.50:061][ 48]LogModuleManager: Shutting down and abandoning module WmfMedia (246)
+[2018.11.02-16.55.50:065][ 48]LogModuleManager: Shutting down and abandoning module Media (245)
+[2018.11.02-16.55.50:073][ 48]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2018.11.02-16.55.50:074][ 48]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2018.11.02-16.55.50:074][ 48]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2018.11.02-16.55.50:074][ 48]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2018.11.02-16.55.50:074][ 48]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2018.11.02-16.55.50:074][ 48]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2018.11.02-16.55.50:074][ 48]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (230)
+[2018.11.02-16.55.50:074][ 48]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.11.02-16.55.50:074][ 48]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.11.02-16.55.50:074][ 48]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.11.02-16.55.50:074][ 48]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.11.02-16.55.50:074][ 48]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.11.02-16.55.50:075][ 48]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.11.02-16.55.50:075][ 48]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.11.02-16.55.50:075][ 48]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.11.02-16.55.50:075][ 48]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.11.02-16.55.50:075][ 48]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.11.02-16.55.50:076][ 48]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.11.02-16.55.50:076][ 48]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.11.02-16.55.50:076][ 48]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.11.02-16.55.50:076][ 48]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.11.02-16.55.50:084][ 48]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.11.02-16.55.50:084][ 48]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.11.02-16.55.50:085][ 48]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.11.02-16.55.50:085][ 48]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.11.02-16.55.50:085][ 48]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.11.02-16.55.50:085][ 48]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.11.02-16.55.50:085][ 48]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.11.02-16.55.50:085][ 48]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.11.02-16.55.50:085][ 48]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.11.02-16.55.50:085][ 48]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.11.02-16.55.50:085][ 48]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.11.02-16.55.50:085][ 48]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.11.02-16.55.50:085][ 48]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.11.02-16.55.50:086][ 48]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.11.02-16.55.50:086][ 48]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.11.02-16.55.50:086][ 48]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.11.02-16.55.50:086][ 48]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.11.02-16.55.50:090][ 48]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.11.02-16.55.50:095][ 48]LogDerivedDataCache: Shutdown
+[2018.11.02-16.55.50:096][ 48]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.11.02-16.55.50:096][ 48]LogXGEController: Cleaning working directory: C:/Users/User/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.02-16.55.50:096][ 48]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.11.02-16.55.50:097][ 48]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.11.02-16.55.50:097][ 48]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.11.02-16.55.50:097][ 48]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.11.02-16.55.50:097][ 48]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.11.02-16.55.50:097][ 48]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.11.02-16.55.50:098][ 48]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.11.02-16.55.50:098][ 48]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.11.02-16.55.50:098][ 48]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.11.02-16.55.50:098][ 48]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.11.02-16.55.50:098][ 48]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.11.02-16.55.50:098][ 48]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.11.02-16.55.50:098][ 48]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.11.02-16.55.50:099][ 48]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.11.02-16.55.50:099][ 48]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.11.02-16.55.50:099][ 48]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.11.02-16.55.50:099][ 48]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.11.02-16.55.50:099][ 48]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.11.02-16.55.50:100][ 48]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.11.02-16.55.50:100][ 48]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.11.02-16.55.50:100][ 48]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.11.02-16.55.50:100][ 48]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.11.02-16.55.50:124][ 48]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.11.02-16.55.50:124][ 48]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.11.02-16.55.50:133][ 48]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.11.02-16.55.50:133][ 48]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.11.02-16.55.50:170][ 48]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.11.02-16.55.50:170][ 48]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.11.02-16.55.50:170][ 48]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.11.02-16.55.50:170][ 48]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.11.02-16.55.50:170][ 48]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.11.02-16.55.50:170][ 48]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.11.02-16.55.50:170][ 48]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.11.02-16.55.50:170][ 48]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.11.02-16.55.50:170][ 48]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.11.02-16.55.50:170][ 48]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.11.02-16.55.50:170][ 48]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.11.02-16.55.50:171][ 48]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.11.02-16.55.50:171][ 48]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.11.02-16.55.50:171][ 48]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.11.02-16.55.50:171][ 48]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.11.02-16.55.50:171][ 48]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.11.02-16.55.50:171][ 48]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.11.02-16.55.50:171][ 48]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.11.02-16.55.50:171][ 48]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.11.02-16.55.50:172][ 48]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.11.02-16.55.50:188][ 48]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.11.02-16.55.50:188][ 48]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.11.02-16.55.50:188][ 48]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2EFF7F1C-4BBD-3310-966A-919FAD2F4873%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=cca2e83c4c922e6278f0f0b24b85f416%7C5557c92c270a4d1980a46e232588ee31%7Cc91b5b9e-cbf4-490a-9c11-a6e8e5d6d008&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.02-16.55.50:222][ 48]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.11.02-16.55.50:226][ 48]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.11.02-16.55.50:226][ 48]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.11.02-16.55.50:226][ 48]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.11.02-16.55.50:226][ 48]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.11.02-16.55.50:226][ 48]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.11.02-16.55.50:226][ 48]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.11.02-16.55.50:226][ 48]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.11.02-16.55.50:227][ 48]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.11.02-16.55.50:227][ 48]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.11.02-16.55.50:227][ 48]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.02-16.55.50:227][ 48]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.11.02-16.55.50:228][ 48]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.02-16.55.50:228][ 48]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.02-16.55.50:228][ 48]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.02-16.55.50:228][ 48]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.02-16.55.50:228][ 48]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.02-16.55.50:229][ 48]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.02-16.55.50:229][ 48]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.02-16.55.50:232][ 48]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.02-16.55.50:232][ 48]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.02-16.55.50:232][ 48]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.02-16.55.50:232][ 48]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.02-16.55.50:232][ 48]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.02-16.55.50:232][ 48]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.02-16.55.50:232][ 48]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.02-16.55.50:232][ 48]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.02-16.55.50:232][ 48]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.02-16.55.50:232][ 48]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.02-16.55.50:232][ 48]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.02-16.55.50:240][ 48]LogExit: Exiting.
+[2018.11.02-16.55.50:252][ 48]Log file closed, 11/02/18 18:55:50
